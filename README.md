@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @unmeshmali25
 - 👀 I’m interested in all things data
-- 🌱 I’m currently learning for a data scientist role in the tech industry. 
 - 💞️ I’m looking to collaborate on real world data problems. 
 - 📫 You can reach me at unmeshmali@gmail.com or send me a connection request at https://www.linkedin.com/in/unmesh-mali/
 

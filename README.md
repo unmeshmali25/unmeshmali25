@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @unmeshmali25
-- 👀 I’m interested in all things data
-- 💞️ I’m looking to collaborate on real world data problems. 
+- 👀 ML Engineer at CVS Health
+- Working at inference scale of 80 million customers per week. 
+- Working on Recomendation Engine using Neural Networks, MLOps with Jenkins & Kubeflow. 
 - 📫 You can reach me at unmeshmali@gmail.com or send me a connection request at https://www.linkedin.com/in/unmesh-mali/
 
 <!---

@@ -2,7 +2,7 @@
 - 👀 ML Engineer at CVS Health
 - Working at inference scale of 80 million customers per week. 
 - Working on
-  - @CVS : Recomendation Engine using Neural Networks, MLOps with Jenkins & Kubeflow.
+  - @CVS : Recomendation Engine, Offer engine, MLOps infrastructure overhaul. 
   - A full-stack retail app with AR-based product identification and coupon matching (React, Supabase, Python/Railway)
   - An AI agent orchestration framework — 372 LLM-powered personas simulating real shopper behavior over 3+ synthetic years (LangGraph, LangSmith,         asyncio)
   - A complete MLOps platform for recommendations, offer optimization, segmentation, and CLV modeling (Terraform, GCP, DVC, MLflow, GitHub Actions)
